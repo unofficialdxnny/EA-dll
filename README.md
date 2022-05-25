@@ -1,6 +1,10 @@
 # EA-dll
 Free items dll for games by EA
 
+<p align='center'>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/e/e5/Electronic_Arts_Logo_2020.png' width=100 height=100>
+  </p>
+
 ## SUPPORTS 
 
 - g_Cities Skylines
